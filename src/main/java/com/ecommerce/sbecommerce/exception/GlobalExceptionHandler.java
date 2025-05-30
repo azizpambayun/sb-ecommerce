@@ -1,6 +1,7 @@
 package com.ecommerce.sbecommerce.exception;
 
 import com.ecommerce.sbecommerce.payload.APIResponse;
+import jakarta.validation.ConstraintViolationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

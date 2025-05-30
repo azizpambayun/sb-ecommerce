@@ -1,6 +1,5 @@
 package com.ecommerce.sbecommerce.service;
 
-import com.ecommerce.sbecommerce.model.Category;
 import com.ecommerce.sbecommerce.payload.CategoryDTO;
 import com.ecommerce.sbecommerce.payload.CategoryResponse;
 

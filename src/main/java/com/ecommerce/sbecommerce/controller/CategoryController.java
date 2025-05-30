@@ -1,7 +1,6 @@
 package com.ecommerce.sbecommerce.controller;
 
 import com.ecommerce.sbecommerce.config.AppConstants;
-import com.ecommerce.sbecommerce.model.Category;
 import com.ecommerce.sbecommerce.payload.CategoryDTO;
 import com.ecommerce.sbecommerce.payload.CategoryResponse;
 import com.ecommerce.sbecommerce.service.CategoryService;
